@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.exe
+
+# 调试 / 临时文件
+_probe/
+_probe_log.txt
+*.log
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
